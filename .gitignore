@@ -1,0 +1,8 @@
+db.sqlite3
+.venv
+.idea
+__pycache__
+custom_users/migrations
+tasks/migrations
+user_auth/migrations
+
